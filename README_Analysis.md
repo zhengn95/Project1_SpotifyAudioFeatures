@@ -1,9 +1,8 @@
 # Spotify Audio Features vs Popularity Analysis and Conclusion
 
 **Contributors:** Richard Bialick, Julio Dela Cruz, Tim Haake, Kylie Li, Nancy Zheng  
-**Link to Github Repo:** https://github.com/Xyr3n/Team_2  
-[Presentation Link](https://docs.google.com/presentation/d/16aQn_27_jSCnHkuAOaOS74O0h8zrKMDVw1VuPrmlfOE/edit?usp=sharing)  
-
+**Link to Github Repo:** https://github.com/zhengn95/
+[Presentation Link](https://docs.google.com/presentation/d/179E6XyXVGUQcURvWDIAINpz7rKUUxUfqtZ6FTdYGt7I/edit?usp=sharing)
 #### Project Description:
 In our project, we analyzed different audio features that may contribute to the popularity of the top tracks from [Top 10 Streamed Artists in the United States on Spotify](https://open.spotify.com/section/0JQ5DAnM3wGh0gz1MXnu3C). We made conclusions on current and future trends based on comparing various audio features to music popularity.
 
